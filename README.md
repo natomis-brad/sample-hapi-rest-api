@@ -1,12 +1,13 @@
 ##Sample hapi.js REST API
 
-A sample structure for building a REST API on top of `hapi.js` framework that consumes a `MySQL` database.
+A sample structure for building a REST API on top of `hapi.js` framework that consumes a ~~`MySQL`~~ database.
+This repo was forked from https://github.com/agendor/sample-hapi-rest-api.  Originally it was built against a MySql database.  My attempt is to use Postgres instead
 
 ---
 Start by cloning this repo and going inside the project's folder:
 
 ```shell
-$ git clone git@github.com:agendor/sample-hapi-rest-api.git
+$ git clone git@github.com:natomis-brad/sample-hapi-rest-api.git
 $ cd sample-hapi-rest-api
 ```
 
